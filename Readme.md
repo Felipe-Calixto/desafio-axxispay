@@ -4,7 +4,7 @@ Rode os comandos:
 - npm i
 - npm start 
 
-### Como foi pensadao e projetado o desafio
+### Como foi pensado e projetado o desafio
 
 Inicialmente fui pesquisar a fundo o que seria um anagrama, entendido isso, comecei a pensar como resolver este desafio.
 
